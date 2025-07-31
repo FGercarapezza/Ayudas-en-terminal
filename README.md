@@ -10,7 +10,7 @@ Script en Bash para modificar valores en archivos JSON de forma masiva.
 ./modificar_json.sh <clave> <nuevo_valor> /ruta/a/jsons
 ```
 
-#Ejemplo:
+## Ejemplo:
 
 ```bash
 ./modificar_json.sh ip_memory \"10.0.0.2\" ~/tp-2025-1c-let-them-cook/memoria/
@@ -33,10 +33,14 @@ Ideal para quienes prefieren una terminal con mucho historial visible y soporte 
 
 ---
 ## Primero darle permisos de ejecución (solo una vez por máquina):
-chmod +x modificar_json.sh
+
+```bash
+chmod +x configurar_tmux.sh
+```
 
 ## 🚀 Uso
 
 ```bash
 ./configurar_tmux.sh [LÍNEAS]
 [LINEAS] es opcional, por defecto 10000
+```
