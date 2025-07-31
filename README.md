@@ -1,7 +1,7 @@
 # Modificador-de-Json
  modificar_json.sh
 
-# Primero darle permisos de ejecución (solo una vez por máquina):
+Primero darle permisos de ejecución (solo una vez por máquina):
 chmod +x modificar_json.sh
 
 Script en Bash para modificar valores en archivos JSON de forma masiva.
