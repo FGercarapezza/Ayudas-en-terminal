@@ -1,5 +1,4 @@
 # 🔧 Modificador-de-Json
- modificar_json.sh
 
 ## Primero darle permisos de ejecución (solo una vez por máquina):
 chmod +x modificar_json.sh
@@ -33,6 +32,8 @@ Este pequeño script en Bash permite configurar automáticamente:
 Ideal para quienes prefieren una terminal con mucho historial visible y soporte completo de mouse.
 
 ---
+## Primero darle permisos de ejecución (solo una vez por máquina):
+chmod +x modificar_json.sh
 
 ## 🚀 Uso
 
