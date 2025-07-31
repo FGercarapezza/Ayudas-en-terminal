@@ -7,13 +7,15 @@ chmod +x modificar_json.sh
 Script en Bash para modificar valores en archivos JSON de forma masiva.
 
 ## 🚀 Uso
-
+```bash
 ./modificar_json.sh <clave> <nuevo_valor> /ruta/a/jsons
+```
 
 #Ejemplo:
 
-bash:
+```bash
 ./modificar_json.sh ip_memory \"10.0.0.2\" ~/tp-2025-1c-let-them-cook/memoria/
+```
 
 Si no tenés 'jq' instalado, el script lo instalará automáticamente.
 
