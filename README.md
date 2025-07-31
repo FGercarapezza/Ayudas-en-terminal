@@ -18,8 +18,8 @@ Script en Bash para modificar valores en archivos JSON de forma masiva.
 
 Si no tenés 'jq' instalado, el script lo instalará automáticamente.
 
-
-
+<br />
+<br />
 
 
 # 🔧 Modificador de configuración de tmux
