@@ -130,14 +130,3 @@ go version
 | `tmux`    | Multiplexar terminales           |
 
 ---
-
-## ✅ Listo para comenzar
-
-Con esto ya estás listo para:
-
-- Ejecutar los módulos del TP
-- Configurar correctamente las IPs
-- Usar `tmux` para gestionar múltiples terminales
-- Ejecutar pruebas con scripts externos
-
-¡A cocinar! 👨‍🍳🔥
